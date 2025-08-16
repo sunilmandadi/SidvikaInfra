@@ -1,7 +1,7 @@
 # real-estate-template
 ## Introduction
 
-Fanam is a Real Estate, Architecture &amp; interior design Bootstrap HTML Template for real estate website, manage and listing a local or global directory site, 
+Sidvika is a Real Estate, Architecture &amp; interior design Bootstrap HTML Template for real estate website, manage and listing a local or global directory site, 
 real estate agency, real estate agent, real estate company website, property listing, real estate listing, real esate website, real estate broker, realtor,
 google maps, realtor agent, rental, retina ready, real estate, corporate, apartment services presentations. 
 This design is very simple and unique, and also very easy to customize and use.
